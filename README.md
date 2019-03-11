@@ -52,7 +52,7 @@ Note : this container is different to the STL files I have provided.
 
 After powering up the lights, it is required to send a request, in order to switch on the lights. I will cover this part in a seperate post. 
 
-### They have been light up
+### They are ON!
 
 <p align="center">
 <img src="https://github.com/akshika47/Ambient_Light/blob/master/Assets/light.jpg" width="500" height="500">
